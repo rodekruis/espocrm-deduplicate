@@ -8,7 +8,7 @@ Developed in support to the [Ukraine crisis 2022](https://go.ifrc.org/emergencie
 
 Synopsis: a [dockerized](https://www.docker.com/) [python app](https://www.python.org/) that checks for duplicated entries in [EspoCRM](https://www.espocrm.com/).
 
-Worflow: the app periodically checks if field X in entity A equals field Y in entity B. If so, set a defined boolean field as true.
+Worflow: the app checks if field X in entity A equals field Y in entity B. If so, set a defined boolean field as true.
 Repeat for all entities A and B. Supports fuzzy matching.
 
 ## Setup
