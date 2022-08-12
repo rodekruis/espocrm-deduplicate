@@ -1,0 +1,5 @@
+binotel==0.0.1
+tqdm==4.60.0
+requests==2.26.0
+python-dotenv==0.19.2
+fuzzywuzzy==0.18.0
